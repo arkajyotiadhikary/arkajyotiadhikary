@@ -33,6 +33,10 @@ You can check my works on my Instagram.
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi)
 
 
+## 🦋 Stats
+
+<img src="https://komarev.com/ghpvc/?username=arkajyotiadhikary"/>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=arkajyotiadhikary&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkajyotiadhikary&hide=TeX&layout=compact)
 
