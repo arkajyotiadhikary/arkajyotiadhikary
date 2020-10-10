@@ -1,1 +1,3 @@
-![                               Untitled%20eb2d8fa6a5fc4fd4b566c8f5b7dfd66a/giphy.gif](Untitled%20eb2d8fa6a5fc4fd4b566c8f5b7dfd66a/giphy.gif)
+<div style=>
+     <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+</div>
