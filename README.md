@@ -35,3 +35,12 @@ You can check my works on my Instagram.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=arkajyotiadhikary&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkajyotiadhikary&hide=TeX&layout=compact)
+
+
+## 🦋 Social Medias
+
+[![Linkedin Badge](https://img.shields.io/badge/-arkajyotiadhikary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arka-jyoti-a-5332b6196/)](https://www.linkedin.com/in/arka-jyoti-a-5332b6196/)
+[![Instagram Badge](https://img.shields.io/badge/-Butterfly Of My Mind?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/arkajyotiadhikary/)](https://www.instagram.com/arkajyotiadhikary/)
+[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
