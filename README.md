@@ -40,6 +40,6 @@ You can check my works on my Instagram.
 ## 🦋 Social Medias
 
 [![Linkedin Badge](https://img.shields.io/badge/-arkajyotiadhikary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arka-jyoti-a-5332b6196/)](https://www.linkedin.com/in/arka-jyoti-a-5332b6196/)
-[![Instagram Badge](https://img.shields.io/badge/-Butterfly_Of_My_Mind?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/arkajyotiadhikary/)](https://www.instagram.com/arkajyotiadhikary/)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/butterflyofmymind?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/arkajyotiadhikary/)](https://www.instagram.com/arkajyotiadhikary/)
+[![Youtube Badge](https://img.shields.io/badge/-arkajyotiadhikary?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCL9N71eL8rPLL11G_jkWFEw?view_as=subscriber)
+[![Gmail Badge](https://img.shields.io/badge/-arkajyotiadhikary15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=arkajyotiadhikary15@gmail@gmail.com)](mailto:arkajyotiadhikary15@gmail@gmail.com)
