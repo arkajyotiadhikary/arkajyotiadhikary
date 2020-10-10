@@ -5,4 +5,5 @@
 Hello, Butterflies.
 	My name is Arka Jyoti Adhikary. I'm an indie game developer. I'm currently learning Node.js. I like creative works, modelling and designing.
 You can check my works on my Instagram.
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arkajyotiadhikary.arkajyotiadhikary)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arkajyotiadhikary)
