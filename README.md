@@ -14,7 +14,7 @@ You can check my works on my Instagram.
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C#](https://img.shields.io/badge/-C#-E34A86?style=flat-square&logo=c#)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -40,6 +40,6 @@ You can check my works on my Instagram.
 ## 🦋 Social Medias
 
 [![Linkedin Badge](https://img.shields.io/badge/-arkajyotiadhikary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arka-jyoti-a-5332b6196/)](https://www.linkedin.com/in/arka-jyoti-a-5332b6196/)
-[![Instagram Badge](https://img.shields.io/badge/-butterflyofmymind-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/arkajyotiadhikary/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-arkajyotiadhikary?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCL9N71eL8rPLL11G_jkWFEw?view_as=subscriber)
+[![Instagram Badge](https://img.shields.io/badge/-butterflyofmymind-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/arkajyotiadhikary/)](https://instagram.com/arkajyotiadhikary)
+[![Youtube Badge](https://img.shields.io/badge/-arkajyotiadhikary?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/arkajyotiadhikary)](https://www.youtube.com/c/arkajyotiadhikary)
 [![Gmail Badge](https://img.shields.io/badge/-arkajyotiadhikary15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=arkajyotiadhikary15@gmail@gmail.com)](mailto:arkajyotiadhikary15@gmail@gmail.com)
