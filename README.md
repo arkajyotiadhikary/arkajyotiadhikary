@@ -32,6 +32,7 @@ You can check my works on my Instagram.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi)
 
+<img src="https://media.giphy.com/media/mEggiKAI8llUpjgFKE/giphy.gif" width="80px">
 
 ## 🦋 Stats
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arkajyotiadhikary)
