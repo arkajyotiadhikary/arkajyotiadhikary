@@ -1,6 +1,6 @@
 <div class="container">
     	<img src="https://media.giphy.com/media/Vn5t5UhLoqByw/giphy.gif"/ width="1800">
-    	<h1 align="center"><img src="https://media.giphy.com/media/88jkqdNPMSXJv8OLcy/giphy.gif" width="30px"> Butterflies of my mind</h1>
+    	<h1 align="center"><img src="https://media.giphy.com/media/88jkqdNPMSXJv8OLcy/giphy.gif" width="80px"> Butterflies of my mind</h1>
 </div>
 Hello, Butterflies.
 	My name is Arka Jyoti Adhikary. I'm an indie game developer. I'm currently learning Node.js. I like creative works, modelling and designing.
