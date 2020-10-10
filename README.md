@@ -1,6 +1,7 @@
 <div class="container">
-    <img src="https://media.giphy.com/media/Vn5t5UhLoqByw/giphy.gif"/ width="1800">
-    <h1 align="center">Butterflies of my mind</h1>
+    	<img src="https://media.giphy.com/media/Vn5t5UhLoqByw/giphy.gif"/ width="1800">
+	<img src="https://media.giphy.com/media/88jkqdNPMSXJv8OLcy/giphy.gif" width="30px">
+    	<h1 align="center">Butterflies of my mind</h1>
 </div>
 Hello, Butterflies.
 	My name is Arka Jyoti Adhikary. I'm an indie game developer. I'm currently learning Node.js. I like creative works, modelling and designing.
@@ -14,7 +15,7 @@ You can check my works on my Instagram.
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![C#](https://img.shields.io/badge/-C#-E34A86?style=flat-square&logo=c#)
+![C#](https://img.shields.io/badge/-C#-E34A86?style=flat-square&logo=C#)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
