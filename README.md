@@ -31,3 +31,7 @@ You can check my works on my Instagram.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi)
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=arkajyotiadhikary&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkajyotiadhikary&hide=TeX&layout=compact)
