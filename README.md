@@ -1,3 +1,3 @@
 <div style=>
-     <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+     <img src="https://media.giphy.com/media/Vn5t5UhLoqByw/giphy.gif" width="30" height="30"/>
 </div>
