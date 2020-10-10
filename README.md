@@ -34,8 +34,8 @@ You can check my works on my Instagram.
 
 
 ## 🦋 Stats
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arkajyotiadhikary)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=arkajyotiadhikary&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkajyotiadhikary&hide=TeX&layout=compact)
 
