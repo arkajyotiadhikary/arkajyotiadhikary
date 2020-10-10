@@ -41,7 +41,7 @@ You can check my works on my Instagram.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkajyotiadhikary&hide=TeX&layout=compact)
 
 
-## <img src="https://media.giphy.com/media/mEggiKAI8llUpjgFKE/giphy.gif" width="30px"> Social Medias
+## <img src="https://media.giphy.com/media/ZdaBPJhsR0SPfkkScu/giphy.gif" width="30px"> Social Medias
 
 [![Linkedin Badge](https://img.shields.io/badge/-arkajyotiadhikary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arka-jyoti-a-5332b6196/)](https://www.linkedin.com/in/arka-jyoti-a-5332b6196/)
 [![Instagram Badge](https://img.shields.io/badge/-butterflyofmymind-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/arkajyotiadhikary/)](https://instagram.com/arkajyotiadhikary)
