@@ -6,8 +6,8 @@ Hello, Butterflies.
 	My name is Arka Jyoti Adhikary. I'm an indie game developer. I'm currently learning Node.js. I like creative works, modelling and designing.
 You can check my works on my Instagram.
 
-
-## 🦋 Technologies
+  
+## 🦋 Technologies      
 
 ![Unity](https://img.shields.io/badge/-Unity%20-C51A4A?style=flat-square&logo=unity)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -40,6 +40,6 @@ You can check my works on my Instagram.
 ## 🦋 Social Medias
 
 [![Linkedin Badge](https://img.shields.io/badge/-arkajyotiadhikary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arka-jyoti-a-5332b6196/)](https://www.linkedin.com/in/arka-jyoti-a-5332b6196/)
-[![Instagram Badge](https://img.shields.io/badge/-butterflyofmymind?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/arkajyotiadhikary/)](https://www.instagram.com/arkajyotiadhikary/)
+[![Instagram Badge](https://img.shields.io/badge/-butterflyofmymind-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/arkajyotiadhikary/)](https://instagram.com/kanna6501)
 [![Youtube Badge](https://img.shields.io/badge/-arkajyotiadhikary?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCL9N71eL8rPLL11G_jkWFEw?view_as=subscriber)
 [![Gmail Badge](https://img.shields.io/badge/-arkajyotiadhikary15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=arkajyotiadhikary15@gmail@gmail.com)](mailto:arkajyotiadhikary15@gmail@gmail.com)
