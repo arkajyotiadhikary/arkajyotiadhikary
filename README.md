@@ -35,7 +35,7 @@ You can check my works on my Instagram.
 
 
 
-## <img src="https://media.giphy.com/media/J5q3QN5lHoEmAXQUXi/giphy.gif" width="30px"> Stats
+## <img src="https://media.giphy.com/media/J5q3QN5lHoEmAXQUXi/giphy.gif" width="30px"> Stats <img src="https://media.giphy.com/media/J5q3QN5lHoEmAXQUXi/giphy.gif" width="30px" align ="right">
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arkajyotiadhikary)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=arkajyotiadhikary&count_private=true&show_icons=true&include_all_commits=true)
