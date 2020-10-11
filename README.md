@@ -49,3 +49,15 @@ You can check my works on my Instagram.
 [![Instagram Badge](https://img.shields.io/badge/-butterflyofmymind-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/arkajyotiadhikary/)](https://instagram.com/arkajyotiadhikary)
 [![Youtube Badge](https://img.shields.io/badge/-arkajyotiadhikary-black?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCL9N71eL8rPLL11G_jkWFEw)](https://www.youtube.com/channel/UCL9N71eL8rPLL11G_jkWFEw)
 [![Gmail Badge](https://img.shields.io/badge/-arkajyotiadhikary15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=arkajyotiadhikary15@gmail@gmail.com)](mailto:arkajyotiadhikary15@gmail@gmail.com)
+
+<img src="https://media.giphy.com/media/ZdaBPJhsR0SPfkkScu/giphy.gif" width="30px">
+<img src="https://media.giphy.com/media/J5q3QN5lHoEmAXQUXi/giphy.gif" width="30px">
+<img src="https://media.giphy.com/media/mEggiKAI8llUpjgFKE/giphy.gif" width="30px">
+
+<img src="https://media.giphy.com/media/ZdaBPJhsR0SPfkkScu/giphy.gif" width="30px">
+<img src="https://media.giphy.com/media/J5q3QN5lHoEmAXQUXi/giphy.gif" width="30px">
+<img src="https://media.giphy.com/media/mEggiKAI8llUpjgFKE/giphy.gif" width="30px">
+
+<img src="https://media.giphy.com/media/ZdaBPJhsR0SPfkkScu/giphy.gif" width="30px">
+<img src="https://media.giphy.com/media/J5q3QN5lHoEmAXQUXi/giphy.gif" width="30px">
+<img src="https://media.giphy.com/media/mEggiKAI8llUpjgFKE/giphy.gif" width="30px">
