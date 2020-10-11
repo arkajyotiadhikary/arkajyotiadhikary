@@ -39,8 +39,8 @@ You can check my works on my Instagram.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arkajyotiadhikary)
 
-<img src="https://media.giphy.com/media/Bo1CaIykcQIWA/giphy.gif" width="30px">
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=arkajyotiadhikary&count_private=true&show_icons=true&include_all_commits=true)
+<img src="https://media.giphy.com/media/Bo1CaIykcQIWA/giphy.gif" width="30px">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkajyotiadhikary&hide=TeX&layout=compact)
 
 
