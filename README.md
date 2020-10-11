@@ -53,34 +53,3 @@ You can check my works on my Instagram.
 [![Gmail Badge](https://img.shields.io/badge/-arkajyotiadhikary15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=arkajyotiadhikary15@gmail@gmail.com)](mailto:arkajyotiadhikary15@gmail@gmail.com)
 
 
-<div>
-	<img src="https://media.giphy.com/media/ZdaBPJhsR0SPfkkScu/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/J5q3QN5lHoEmAXQUXi/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/mEggiKAI8llUpjgFKE/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/1Agjcd6wcRQeorkdHZ/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/Bo1CaIykcQIWA/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/S5PPHRtCZAvtj0pAXG/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/S5PPHRtCZAvtj0pAXG/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/JTUUx90VKS8c2FThu1/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/ZdaBPJhsR0SPfkkScu/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/fV2p7fsd3G4qyOSPcU/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/Pn7TZffipFcFeLKbWA/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/LODja4X9Ld96zjFlxH/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/S5PPHRtCZAvtj0pAXG/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/XGh9NYkzJXBzvpaWOY/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/fWr5viYTzcwhtcr3EV/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/RJQHBKEBYBlSwoJGRC/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/TLb2Fi1urmSX56dCGf/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/j2voWHXKXE2SjSPArj/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/UowB1aIjUUzYkW3Ubb/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/j2voWHXKXE2SjSPArj/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/UowB1aIjUUzYkW3Ubb/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/1n8aD5ARVdyTICCyae/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/MdGEoGADUhvkB3Ybie/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/Td3cvykFXaE4vGSNdv/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/xUA7b6CN3JlaPWexYA/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/QgWWPGmstylEY/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/jxPNeo1EKg3m0/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/12pzWhhXfl7WUg/giphy.gif" width="30px">
-	<img src="https://media.giphy.com/media/huUB3QEzqLkEe6raDa/giphy.gif" width="30px">
-</div>
