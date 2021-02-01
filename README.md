@@ -1,6 +1,6 @@
 
 <div class="container">
-	<img src="https://media.giphy.com/media/E1Fn70ylIAfWU/giphy.gif" width="100%" height="700px">
+	<img src="https://media.giphy.com/media/E1Fn70ylIAfWU/giphy.gif" width="100%" height="600px">
     	<h1 align="center"><img src="https://media.giphy.com/media/gfBMF9EvI7HbRz8PFe/giphy.gif" width="80px"> Bug Slayer 
 	<img src="https://media.giphy.com/media/LmaDYj8JAYzQ5LuezK/giphy.gif" width="40px"></h1>
 </div>
