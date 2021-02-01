@@ -9,7 +9,7 @@ Hello, Bugs.
 You can check my works on my Instagram.
 
   
-## <img src="https://media.giphy.com/media/lMsfv1SkJrQsDgAmXx/giphy.gif" width="30px"> Technologies      
+## <img src="https://media.giphy.com/media/lMsfv1SkJrQsDgAmXx/giphy.gif" width="80px"> Technologies      
 
 ![Unity](https://img.shields.io/badge/-Unity%20-C51A4A?style=flat-square&logo=unity)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
