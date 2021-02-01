@@ -1,7 +1,7 @@
 
 <div class="container">
 	<img src="https://media.giphy.com/media/E1Fn70ylIAfWU/giphy.gif" width="100%" height="700px">
-    	<h1 align="center"><img src="https://media.giphy.com/media/Z9KovmhhlbPkTADKZV/giphy.gif" width="100%"> Bug Slayer 
+    	<h1 align="center"><img src="https://media.giphy.com/media/Z9KovmhhlbPkTADKZV/giphy.gif" width="200px"> Bug Slayer 
 	<img src="https://media.giphy.com/media/LmaDYj8JAYzQ5LuezK/giphy.gif" width="40px"></h1>
 </div>
 Hello, Bugs.
