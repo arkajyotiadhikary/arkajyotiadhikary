@@ -1,6 +1,6 @@
 
 <div class="container">
-	<img src="https://media.giphy.com/media/Mc0sA7tY903RUy9KFP/giphy.gif" width="1000px" height="700">
+	<img src="https://media3.giphy.com/media/Mc0sA7tY903RUy9KFP/giphy.gif?cid=ecf05e47qy7vz9iz59qk7iy0e4bgbhnz6y8as8iwojop32ar&rid=giphy.gif" width="1000px" height="700">
     	<h1 align="center"><img src="https://media.giphy.com/media/88jkqdNPMSXJv8OLcy/giphy.gif" width="80px"> Butterfly of my mind 
 	<img src="https://media.giphy.com/media/RH8445m162t13Gadzf/giphy.gif" width="40px"></h1>
 </div>
