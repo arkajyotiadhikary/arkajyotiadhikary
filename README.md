@@ -36,7 +36,7 @@ You can check my works on my Instagram.
 
 
 
-##  Stats <img src="https://media.giphy.com/media/UU339FMPSnEeQ/giphy.gif" width="30px"> <img src="https://media.giphy.com/media/ZdaBPJhsR0SPfkkScu/giphy.gif" width="30px" align ="right"><img src="https://media.giphy.com/media/J5q3QN5lHoEmAXQUXi/giphy.gif" width="30px" align ="right"><img src="https://media.giphy.com/media/mEggiKAI8llUpjgFKE/giphy.gif" width="30px" align ="right">
+##  Stats <img src="https://media.giphy.com/media/Kg2C8PDxEI1cL9jEwD/giphy.gif" width="30px"> <img src="https://media.giphy.com/media/ZdaBPJhsR0SPfkkScu/giphy.gif" width="30px" align ="right"><img src="https://media.giphy.com/media/J5q3QN5lHoEmAXQUXi/giphy.gif" width="30px" align ="right"><img src="https://media.giphy.com/media/mEggiKAI8llUpjgFKE/giphy.gif" width="30px" align ="right">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arkajyotiadhikary)
 
@@ -45,7 +45,7 @@ You can check my works on my Instagram.
 
 
 
-## Social Medias <img src="https://media.giphy.com/media/TFTDsGejTf4CnEPD2E/giphy.gif" width="30px"> 
+## Social Medias <img src="https://media.giphy.com/media/cnRbTvVNZfNHxQG3nB/giphy.gif" width="30px"> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-arkajyotiadhikary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arka-jyoti-a-5332b6196/)](https://www.linkedin.com/in/arka-jyoti-a-5332b6196/)
 [![Instagram Badge](https://img.shields.io/badge/-butterflyofmymind-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/arkajyotiadhikary/)](https://instagram.com/arkajyotiadhikary)
