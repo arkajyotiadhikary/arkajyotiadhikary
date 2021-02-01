@@ -36,7 +36,7 @@ You can check my works on my Instagram.
 
 
 
-## <img src="https://media.giphy.com/media/J5q3QN5lHoEmAXQUXi/giphy.gif" width="30px"> Stats <img src="https://media.giphy.com/media/ZdaBPJhsR0SPfkkScu/giphy.gif" width="30px" align ="right"><img src="https://media.giphy.com/media/J5q3QN5lHoEmAXQUXi/giphy.gif" width="30px" align ="right"><img src="https://media.giphy.com/media/mEggiKAI8llUpjgFKE/giphy.gif" width="30px" align ="right">
+##  Stats <img src="https://media.giphy.com/media/UU339FMPSnEeQ/giphy.gif" width="30px"> <img src="https://media.giphy.com/media/ZdaBPJhsR0SPfkkScu/giphy.gif" width="30px" align ="right"><img src="https://media.giphy.com/media/J5q3QN5lHoEmAXQUXi/giphy.gif" width="30px" align ="right"><img src="https://media.giphy.com/media/mEggiKAI8llUpjgFKE/giphy.gif" width="30px" align ="right">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arkajyotiadhikary)
 
