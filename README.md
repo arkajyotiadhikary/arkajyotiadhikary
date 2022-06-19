@@ -1,4 +1,4 @@
-<h1>Hello,<br/> Bugs. My name is Arka Jyoti Adhikary. I'm an Web Developer and a indie game developer. I like creative works, modelling and designing.</h1>
+<h1>Hello,<br/>My name is Arka Jyoti Adhikary. I'm an Web Developer and a indie game developer. I like creative works, modelling and designing.</h1>
 
  
 ## Technologies    
