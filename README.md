@@ -1,14 +1,7 @@
-
-<div class="container">
-	<img src="https://media.giphy.com/media/E1Fn70ylIAfWU/giphy.gif" width="100%" height="600px">
-    	<h1 align="center"><img src="https://media.giphy.com/media/gfBMF9EvI7HbRz8PFe/giphy.gif" width="60px"> Bug Slayer 
-	<img src="https://media.giphy.com/media/LmaDYj8JAYzQ5LuezK/giphy.gif" width="40px"></h1>
-</div>
 Hello, Bugs.
-	My name is Arka Jyoti Adhikary. I'm an indie game developer. I'm currently learning Node.js. I like creative works, modelling and designing.
-You can check my works on my Instagram.
+	My name is Arka Jyoti Adhikary. I'm an Web Developer and a indie game developer. I like creative works, modelling and designing.
 
-  
+ 
 ## Technologies    
 
 ![Unity](https://img.shields.io/badge/-Unity%20-C51A4A?style=flat-square&logo=unity)
