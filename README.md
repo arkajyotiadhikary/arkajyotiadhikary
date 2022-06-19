@@ -9,7 +9,7 @@ Hello, Bugs.
 You can check my works on my Instagram.
 
   
-## Technologies <img src="https://media.giphy.com/media/lMsfv1SkJrQsDgAmXx/giphy.gif" width="50px">      
+## Technologies    
 
 ![Unity](https://img.shields.io/badge/-Unity%20-C51A4A?style=flat-square&logo=unity)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -36,8 +36,7 @@ You can check my works on my Instagram.
 
 
 
-##  Stats <img src="https://media.giphy.com/media/Kg2C8PDxEI1cL9jEwD/giphy.gif" width="30px"> <img src="https://media.giphy.com/media/ZdaBPJhsR0SPfkkScu/giphy.gif" width="30px" align ="right"><img src="https://media.giphy.com/media/J5q3QN5lHoEmAXQUXi/giphy.gif" width="30px" align ="right"><img src="https://media.giphy.com/media/mEggiKAI8llUpjgFKE/giphy.gif" width="30px" align ="right">
-
+##  Stats 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arkajyotiadhikary)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=arkajyotiadhikary&count_private=true&show_icons=true&include_all_commits=true)
@@ -45,8 +44,7 @@ You can check my works on my Instagram.
 
 
 
-## Social Medias <img src="https://media.giphy.com/media/cnRbTvVNZfNHxQG3nB/giphy.gif" width="30px"> 
-
+## Social Medias
 [![Linkedin Badge](https://img.shields.io/badge/-arkajyotiadhikary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arka-jyoti-a-5332b6196/)](https://www.linkedin.com/in/arka-jyoti-a-5332b6196/)
 [![Instagram Badge](https://img.shields.io/badge/-butterflyofmymind-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/arkajyotiadhikary/)](https://instagram.com/arkajyotiadhikary)
 [![Youtube Badge](https://img.shields.io/badge/-arkajyotiadhikary-black?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCL9N71eL8rPLL11G_jkWFEw)](https://www.youtube.com/channel/UCL9N71eL8rPLL11G_jkWFEw)
