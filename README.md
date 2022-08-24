@@ -4,7 +4,7 @@
 
 </h1>
 <p align="center">
-	<img src="https://media.giphy.com/media/u4zZXYFztZtSZPlWZv/giphy.gif"/>
+	<img src="https://media.giphy.com/media/GGqwHutw9TpT9xOIfW/giphy.gif"/>
 </p>
  
 ## Technologies  <img src="https://media.giphy.com/media/FQzxT8rCoCZU0wZwYq/giphy.gif" width="70px">
