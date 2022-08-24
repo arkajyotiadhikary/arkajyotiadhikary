@@ -3,9 +3,6 @@
 <img src="https://media.giphy.com/media/7TOqHYpbsefeIsmdsk/giphy.gif"  width="70px"/>
 
 </h1>
-<p align="center">
-	<img src="https://media.giphy.com/media/GGqwHutw9TpT9xOIfW/giphy.gif"/>
-</p>
  
 ## Technologies  <img src="https://media.giphy.com/media/c0xcPudJy1JDy/giphy.gif" width="70px">
 
