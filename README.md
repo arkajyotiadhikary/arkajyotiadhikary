@@ -7,7 +7,7 @@
 	<img src="https://media.giphy.com/media/GGqwHutw9TpT9xOIfW/giphy.gif"/>
 </p>
  
-## Technologies  <img src="https://media.giphy.com/media/FQzxT8rCoCZU0wZwYq/giphy.gif" width="70px">
+## Technologies  <img src="https://media.giphy.com/media/c0xcPudJy1JDy/giphy.gif" width="70px">
 
 ![Unity](https://img.shields.io/badge/-Unity%20-C51A4A?style=flat-square&logo=unity)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
