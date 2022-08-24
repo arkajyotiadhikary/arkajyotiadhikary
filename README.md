@@ -1,10 +1,13 @@
 
-<h1>Hello,<br/>&nbsp;&nbsp;&nbsp;&nbsp;My name is <img src="https://images.cooltext.com/5616484.gif" width="200" height="35" alt="Arka Jyoti Adhikary" /> <span><img src="https://media.giphy.com/media/4Va6KyhD9p43DLFKcw/giphy.gif" width="40px" height="40px"/></span>.<br/>I'm a Web Developer and a indie game developer. I like creative works, modelling and designing.</h1>
+<h1>Hello,<br/>&nbsp;&nbsp;&nbsp;&nbsp;My name is ARKA .<br/>I'm a <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif"/>Web Developer and a indie game developer. I like creative works, modelling and designing.
+<img src="https://media.giphy.com/media/7TOqHYpbsefeIsmdsk/giphy.gif"  width="70px"/>
+
+</h1>
 <p align="center">
 	<img src="https://media.giphy.com/media/u4zZXYFztZtSZPlWZv/giphy.gif"/>
 </p>
  
-## Technologies    
+## Technologies  <img src="https://media.giphy.com/media/FQzxT8rCoCZU0wZwYq/giphy.gif" width="70px">
 
 ![Unity](https://img.shields.io/badge/-Unity%20-C51A4A?style=flat-square&logo=unity)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -23,7 +26,7 @@
 
 
 
-##  Stats 
+##  Stats  <img src="https://media.giphy.com/media/7zAIzCsu7RHtLHXsvc/giphy.gif" width="70px">
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arkajyotiadhikary)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=arkajyotiadhikary&count_private=true&show_icons=true&include_all_commits=true)
@@ -31,7 +34,7 @@
 
 
 
-## Social Medias
+## Social Medias <img src="https://media.giphy.com/media/wQETEwiuV8qDpGdbSl/giphy.gif" width="70px">
 [![Linkedin Badge](https://img.shields.io/badge/-arkajyotiadhikary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arka-jyoti-a-5332b6196/)](https://www.linkedin.com/in/arka-jyoti-a-5332b6196/)
 [![Instagram Badge](https://img.shields.io/badge/-butterflyofmymind-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/arkajyotiadhikary/)](https://instagram.com/arkajyotiadhikary)
 [![Youtube Badge](https://img.shields.io/badge/-arkajyotiadhikary-black?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCL9N71eL8rPLL11G_jkWFEw)](https://www.youtube.com/channel/UCL9N71eL8rPLL11G_jkWFEw)
