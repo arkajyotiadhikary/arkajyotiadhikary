@@ -1,5 +1,8 @@
-<h1>Hello,<br/>My name is Arka Jyoti Adhikary. I'm a Web Developer and a indie game developer. I like creative works, modelling and designing.</h1>
 
+<h1>Hello,<br/>&nbsp;&nbsp;&nbsp;&nbsp;My name is <img src="https://images.cooltext.com/5616484.gif" width="200" height="35" alt="Arka Jyoti Adhikary" /> <span><img src="https://media.giphy.com/media/4Va6KyhD9p43DLFKcw/giphy.gif" width="40px" height="40px"/></span>.<br/>I'm a Web Developer and a indie game developer. I like creative works, modelling and designing.</h1>
+<p align="center">
+	<img src="https://media.giphy.com/media/u4zZXYFztZtSZPlWZv/giphy.gif"/>
+</p>
  
 ## Technologies    
 
